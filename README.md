@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- My name is **Saad Nasir**.
+- I'm a full stack web developer. Yet I know react , Nextjs, mongodb, MySQL, express. I like to use Nextjs and more interested in backend.
+- I'm learning python and its web frameworks to improve my web dev skills.
+- I built a npm package which is [react-confirm-lite](https://www.npmjs.com/package/react-confirm-lite).
+- You can reach me by [facebook](https://www.facebook.com/profile.php?id=61583190691187).
+- You can also reach me by [instagram](https://www.instagram.com/codeinease).
 <!--
 **SaadNasir-git/SaadNasir-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
