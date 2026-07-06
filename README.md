@@ -4,6 +4,7 @@
 - I'm a full stack web developer. Yet I know react , Nextjs, mongodb, MySQL, express, python, inngest. I like to use Nextjs and more interested in backend.
 - You can reach me by [facebook](https://www.facebook.com/profile.php?id=61583190691187).
 - You can also reach me by [instagram](https://www.instagram.com/codeinease).
+- You can also reach me by [linkedIn](https://www.linkedin.com/in/codeinease)
 <!--
 **SaadNasir-git/SaadNasir-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
